@@ -1,0 +1,70 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXGroup section */
+		D1799ECB2D1E22CC002FC907 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		D1799ECC2D1E22CC002FC907 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1620;
+			};
+			buildConfigurationList = D1799ECF2D1E22CC002FC907 /* Build configuration list for PBXProject "Platzi-Respository" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D1799ECB2D1E22CC002FC907;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		D1799ED02D1E22CC002FC907 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		D1799ED12D1E22CC002FC907 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D1799ECF2D1E22CC002FC907 /* Build configuration list for PBXProject "Platzi-Respository" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D1799ED02D1E22CC002FC907 /* Debug */,
+				D1799ED12D1E22CC002FC907 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D1799ECC2D1E22CC002FC907 /* Project object */;
+}
