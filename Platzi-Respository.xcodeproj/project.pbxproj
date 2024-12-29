@@ -10,12 +10,22 @@
 		D1799ED22D1E236B002FC907 /* init.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = init.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D1F24C672D1F4713003D7F24 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D1F24C682D1F7D1A003D7F24 /* optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = optionals.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D1F24C692D1F8715003D7F24 /* Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Arrays.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D1F24C6A2D210885003D7F24 /* set.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = set.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D1F24C6B2D2126DF003D7F24 /* dictonaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = dictonaries.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D1FD83D02D21CE750053F39F /* cicles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = cicles.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D1FD83D12D21D20D0053F39F /* for-cicles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "for-cicles.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		D1799ECB2D1E22CC002FC907 = {
 			isa = PBXGroup;
 			children = (
+				D1FD83D12D21D20D0053F39F /* for-cicles.playground */,
+				D1FD83D02D21CE750053F39F /* cicles.playground */,
+				D1F24C6B2D2126DF003D7F24 /* dictonaries.playground */,
+				D1F24C6A2D210885003D7F24 /* set.playground */,
+				D1F24C692D1F8715003D7F24 /* Arrays.playground */,
 				D1F24C682D1F7D1A003D7F24 /* optionals.playground */,
 				D1F24C672D1F4713003D7F24 /* Functions.playground */,
 				D1799ED22D1E236B002FC907 /* init.playground */,
