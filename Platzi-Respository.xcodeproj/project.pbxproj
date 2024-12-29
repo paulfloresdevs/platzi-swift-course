@@ -15,12 +15,14 @@
 		D1F24C6B2D2126DF003D7F24 /* dictonaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = dictonaries.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D1FD83D02D21CE750053F39F /* cicles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = cicles.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D1FD83D12D21D20D0053F39F /* for-cicles.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "for-cicles.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D1FD83D22D21E7ED0053F39F /* challenges.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = challenges.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		D1799ECB2D1E22CC002FC907 = {
 			isa = PBXGroup;
 			children = (
+				D1FD83D22D21E7ED0053F39F /* challenges.playground */,
 				D1FD83D12D21D20D0053F39F /* for-cicles.playground */,
 				D1FD83D02D21CE750053F39F /* cicles.playground */,
 				D1F24C6B2D2126DF003D7F24 /* dictonaries.playground */,
